@@ -205,5 +205,6 @@ Camera方向与角度：
 
 参考
 ====
-https://www.jianshu.com/p/b5d8e0e13cd9 
+https://www.jianshu.com/p/b5d8e0e13cd9
+
 https://yeungeek.github.io/2020/01/24/AndroidCamera-Orientation/
